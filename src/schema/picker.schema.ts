@@ -333,6 +333,11 @@ export const PickerParamsSchema = {
                 aspectRatio: {
                   type: 'number',
                 },
+                autoCropArea: {
+                  type: 'number',
+                  minimum: 0,
+                  maximum: 1,
+                },
               },
             },
           ],
@@ -472,9 +477,6 @@ export const PickerParamsSchema = {
     },
     multipleFileUpload: {
       type: 'boolean',
-    },
-    googleDriveAppID: {
-      type: 'string',
     },
   },
 };
