@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.48.4](https://github.com/filestack/filestack-js/compare/3.47.4...3.48.4) (2026-04-14)
+  * **googledrive:** Allow developer to set google app origin ([#eb2f51](https://github.com/filestack/filestack-js/commits/eb2f51004eb1dcb0a7da2d1d51190e5d2711bae5))
+
 ## [3.47.4](https://github.com/filestack/filestack-js/compare/3.46.4...3.47.4) (2026-03-25)
   * **picker:** Updated Picker Version ([7793c1](https://github.com/filestack/filestack-js/commit/7793c1f91388c94205869402bf7c268c4ba05ea4)))
   * **picker:** [FS-12163] Schema validation for new param - autoCropArea ([#610](https://github.com/filestack/filestack-js/pull/610))
