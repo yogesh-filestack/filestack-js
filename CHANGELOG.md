@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.51.5](https://github.com/filestack/filestack-js/compare/3.51.4...3.51.5) (2026-05-20)
+  * **picker:** Updated picker version ([#dc4e76](https://github.com/filestack/filestack-js/commits/dc4e769e43618453ca8aa0c27560cb8eba5de36e))
+
+## [3.51.4](https://github.com/filestack/filestack-js/compare/3.50.4...3.51.4) (2026-04-29)
+  * **file-type:** Upgraded file-type to v22.0.0. ([#617](https://github.com/filestack/filestack-js/pull/617)) ([#616](https://github.com/filestack/filestack-js/pull/616))
+
+## [3.50.4](https://github.com/filestack/filestack-js/compare/3.49.4...3.50.4) (2026-04-21)
+  * **picker:** Updated picker version ([#278d41](https://github.com/filestack/filestack-js/commits/278d41dd9e7cf93cf617061c756191dbc777ea09))
+
 ## [3.49.4](https://github.com/filestack/filestack-js/compare/3.48.4...3.49.4) (2026-04-20)
   * **picker:** Updated picker version ([#508cb2](https://github.com/filestack/filestack-js/commits/508cb2911d91c3f03712ec2167e01ad4525e61c0))
 
